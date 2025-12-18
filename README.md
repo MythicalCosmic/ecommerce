@@ -1,0 +1,1 @@
+Ecommerce website fully written on new Django 6, with Boundless (Framework written on top of Aiogram 3.x) and Vue js for Telegram Wep App. Sneat Admin Template for Admins. Stripe, Nowpayments, PayPal support for the website.
