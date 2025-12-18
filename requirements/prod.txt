@@ -1,0 +1,17 @@
+-r base.txt
+
+# Production Server
+gunicorn>=21.2.0
+gevent>=23.9.0  # Async worker
+
+# Monitoring & Logging
+sentry-sdk>=1.39.0
+django-prometheus>=2.3.1
+
+# Performance
+django-cachalot>=2.6.1  # ORM caching
+django-compression-middleware>=0.5.0
+
+# Security
+django-csp>=3.7  # Content Security Policy
+django-permissions-policy>=4.19.0

@@ -1,0 +1,8 @@
+-r base.txt
+
+# Elasticsearch
+django-elasticsearch-dsl>=8.0
+elasticsearch-dsl>=8.11.0
+
+# OR Algolia
+algoliasearch-django>=2.0.0
